@@ -1,7 +1,7 @@
 # Full Stack SensAI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 🔥🔥
 ## 
 
-![sensai]()
+![sensai](https://github.com/EDProgrammerist/sensai-career-coach/blob/master/Preview.png?raw=true)
 
 ### Make sure to create a `.env` file with following variables -
 
